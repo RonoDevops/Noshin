@@ -1,5 +1,7 @@
 user name --> rono
 Password --> Welcome#1
 
+#server is powerd off do not termminate 
 
+use port 8080 to connect 
 
